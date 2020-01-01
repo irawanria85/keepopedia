@@ -474,7 +474,6 @@ var pages = [
 "https://keepopedia.blogspot.com/2019/12/sonam-kapoor-photos-hd.html",
 
 ];
-
 function randomPage() {
     return pages[Math.round(Math.random() * (pages.length - 1))];
 }
